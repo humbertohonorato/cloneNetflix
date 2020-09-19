@@ -17,11 +17,24 @@ header.black {
 }
 
 .header--logo {
-    height: 25px;
+    /* height: 25px; */
 }
 .header--logo img{
     height: 100%;
 }
+
+.header--logo a{
+    text-decoration: none;
+    margin: 0;
+}
+.header--logo h1{
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 35;
+    font-weight: 900;
+}
+
 .header--user {
     height: 35px;
 }

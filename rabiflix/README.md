@@ -8,3 +8,4 @@ Essa API recebe dados como as imagens dos filmes, descrição, titulo, subtiulo,
 os dados são tratados no frontend para serem exibidos.
 
 
+<img src='./img/rabflix.png' />
